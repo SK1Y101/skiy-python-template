@@ -1,0 +1,9 @@
+*.pyo
+*.pyc
+.coverage
+*.yaml
+
+.nox*
+.mypy*
+.pytest*
+*.log
