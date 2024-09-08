@@ -1,7 +1,6 @@
 *.pyo
 *.pyc
 .coverage
-*.yaml
 
 .nox*
 .mypy*
